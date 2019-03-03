@@ -1,0 +1,9 @@
+export const ADD = "ADD";
+export const REMOVE = "REMOVE";
+export const IS_ADDING = "IS_ADDING";
+export const TIME = "TIME";
+export const TITLE = "TITLE";
+export const DESCRIPTION = "DESCRIPTION";
+export const IS_PASSING = "IS_PASSING";
+export const IS_UPDATING = "IS_UPDATING";
+export const UPDATE_PROP = "UPDATE_PROP";
