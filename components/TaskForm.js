@@ -57,7 +57,7 @@ class TaskForm extends React.Component {
                 <View style={styles.inputGroup}>
                     <TextInput
                         placeholder={"Title"}
-                        placeholderTextColor={"#5effcb"}
+                        placeholderTextColor={"#e5e5e5"}
                         style={[styles.input, {color: "#3b3b3b"}]}
                         value={title}
                         autoCorrect={false}
@@ -71,7 +71,7 @@ class TaskForm extends React.Component {
                 <View style={styles.inputGroup}>
                     <TextInput
                         placeholder={"Description"}
-                        placeholderTextColor={"#5effcb"}
+                        placeholderTextColor={"#e5e5e5"}
                         multiline={true}
                         style={[styles.input, {fontSize: 14}]}
                         value={description}
